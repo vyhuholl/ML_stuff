@@ -7,5 +7,6 @@ Miscellaneous Jupyter notebooks.
 * [`Introduction_to_Graph_Neural_Nets_with_JAX_jraph.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/main/Introduction_to_Graph_Neural_Nets_with_JAX_jraph.ipynb);
 * [`Jax_Basics.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/main/Jax_Basics.ipynb);
 * [`multicollinearity_visualisation.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/master/multicollinearity_visualisation.ipynb) – a notebook illustrating different ways to visualize multicollinearity on a dataset with a large amount of features;
+* [`plotly_basics.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/main/plotly_basics.ipynb) – some graphs made with Plotly;
 * [`sampling_with_replacement.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/master/sampling_with_replacement.ipynb) – a notebook illustrating sampling with replacement;
 * [`supervised_clustering.ipynb`](https://github.com/vyhuholl/ML_stuff/blob/master/supervised_clustering.ipynb) – a notebook illustrating [supervised clustering with SHAP values](https://www.aidancooper.co.uk/supervised-clustering-shap-values/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_387).
